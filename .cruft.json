@@ -1,0 +1,13 @@
+{
+  "template": "git@github.com:maxnitze/cruft-example-cookiecutter-template.git",
+  "commit": "5536d4fdb58ddb5c9b1dcf1eff05cc58ed2ddc38",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "my-project-plain",
+      "project_display_name": "My Project Plain",
+      "_template": "git@github.com:maxnitze/cruft-example-cookiecutter-template.git"
+    }
+  },
+  "directory": null
+}
