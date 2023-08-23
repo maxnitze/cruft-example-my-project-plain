@@ -1,6 +1,6 @@
 {
   "template": "git@github.com:maxnitze/cruft-example-cookiecutter-template.git",
-  "commit": "5536d4fdb58ddb5c9b1dcf1eff05cc58ed2ddc38",
+  "commit": "33d4652991dcef1d80d3fc396f664d86270b3044",
   "checkout": null,
   "context": {
     "cookiecutter": {
